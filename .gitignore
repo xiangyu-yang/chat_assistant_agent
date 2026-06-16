@@ -37,12 +37,12 @@ Thumbs.db
 # Backup
 mini_assistant_backup/
 
-# mini_assistant data files
-mini_assistant/sessions/
-mini_assistant/uploads/
-mini_assistant/vector_store/
-mini_assistant/knowledge_bases/
-mini_assistant/uploaded_files.json
+# chat_assistant_agent data files
+chat_assistant_agent/sessions/
+chat_assistant_agent/uploads/
+chat_assistant_agent/vector_store/
+chat_assistant_agent/knowledge_bases/
+chat_assistant_agent/uploaded_files.json
 
 # mini_erp data files
 mini_erp/mini_erp.db
